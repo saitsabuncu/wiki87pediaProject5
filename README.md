@@ -1,6 +1,3 @@
-### README.md
-
-```markdown
 # Wikipedia API Desktop Application
 
 This project is a simple desktop application that utilizes the **Wikipedia API** to search and retrieve summary information about topics. The application is built using Python's `tkinter` module for the graphical user interface (GUI) and the `wikipedia` Python library for fetching data from Wikipedia.
